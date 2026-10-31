@@ -1,0 +1,115 @@
+{
+  "version": "acting-7.3-rest-arms",
+  "actions": {
+    "pet": {
+      "file": "acting-pet.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 153,
+      "fps": 40,
+      "duration": 3.8
+    },
+    "pounce": {
+      "file": "acting-pounce.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 349,
+      "fps": 60,
+      "duration": 5.8
+    },
+    "emote-0": {
+      "file": "acting-emote-0.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-1": {
+      "file": "acting-emote-1.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-2": {
+      "file": "acting-emote-2.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-3": {
+      "file": "acting-emote-3.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-4": {
+      "file": "acting-emote-4.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-5": {
+      "file": "acting-emote-5.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-6": {
+      "file": "acting-emote-6.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    },
+    "emote-7": {
+      "file": "acting-emote-7.png",
+      "cell": [
+        300,
+        280
+      ],
+      "columns": 12,
+      "count": 44,
+      "fps": 12,
+      "duration": 3.6
+    }
+  }
+}
